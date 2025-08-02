@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+mcp_config.json
+openai_config.py

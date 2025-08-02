@@ -1,0 +1,18 @@
+{
+    "mcpServers":{
+        "shx": {
+            "name": "Math tools",
+            "description": "基于python的计算器，可以执行各种数学计算、数值处理等相关功能。",
+            "command": "uv",
+            "args": ["run", "example_tools/tool_math.py"],
+            "isActive": true
+        },
+        "bdmp": {
+            "name":"Baidu Map",
+            "description": "百度地图服务，可用于查询地址、规划路径、计算距离、检索经纬度、推荐商铺美食等。",
+            "url": "https://mcp.map.baidu.com/sse?ak=YOUR_KEY",
+            "transport": "http",
+            "isActive": true
+        }
+    }
+}
