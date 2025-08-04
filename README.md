@@ -5,6 +5,10 @@
 NoteLLM_MCP_Server is an open-source software designed to provide MCP services via API for the Joplin plugin [NoteLLM](https://github.com/HorseSword/joplin-plugin-notellm).  
 It can also serve as a general-purpose MCP service provider through API, or offer standard MCP access via stdio, SSE, or streamableHTTP.
 
+![image-20250804125754732](./_img/image-20250804125754732.png)
+
+
+
 ## Features
 
 - **Compatible with Various MCP Tool Integrations**: Supports adding MCP tools through standard JSON files, making tool integration straightforward and intuitive.

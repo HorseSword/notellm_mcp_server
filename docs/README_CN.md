@@ -5,6 +5,8 @@ NoteLLM_MCP_Server 是一个开源软件，
 此外也可以提供通用 API 模式的 MCP 服务； 
 或通过 stdio、sse 或 streamableHTTP 的形式提供标准 MCP 接入服务。
 
+![image-20250804125837846](./_img/image-20250804125837846.png)
+
 ## 特点
 
 - **兼容各类MCP工具接入**：支持通过标准的JSON文件添加MCP工具，使得工具的集成变得简单直观。
