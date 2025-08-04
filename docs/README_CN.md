@@ -108,15 +108,15 @@ uv run mcp_server.py
 ```json
 {
     "mcpServers": {
-  	  "ANYTHING_HERE": {
-          "name": "NoteLLM_MCP_Server",
-          "type": "sse",
-          "description": "local mcp server",
-          "isActive": true,
-          "tags": [],
-          "baseUrl": "http://127.0.0.1:7302/sse"
-    	}
-	}
+        "ANYTHING_HERE": {
+            "name": "NoteLLM_MCP_Server",
+            "type": "sse",
+            "description": "local mcp server",
+            "isActive": true,
+            "tags": [],
+            "baseUrl": "http://127.0.0.1:7302/sse"
+        }
+    }
 }
 ```
 
